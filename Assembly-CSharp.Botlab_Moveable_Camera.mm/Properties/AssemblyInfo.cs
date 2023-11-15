@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Assembly-CSharp.Botlab_Moveable_Camera.mm")]
+[assembly: AssemblyTitle("Assembly-CSharp.Botlab_Movable_Camera.mm")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Assembly-CSharp.Botlab_Moveable_Camera.mm")]
+[assembly: AssemblyProduct("Assembly-CSharp.Botlab_Movable_Camera.mm")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
