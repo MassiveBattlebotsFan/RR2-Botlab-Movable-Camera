@@ -7,7 +7,7 @@ public class patch_camera_control : camera_control
 {
     private Vector3 cam_offset;
     private Vector3 old_cam_pos;
-    private const float SPEED = 0.25f;
+    private const float SPEED = 0.1f;
 
     [MonoModReplace]
     private void Start()
